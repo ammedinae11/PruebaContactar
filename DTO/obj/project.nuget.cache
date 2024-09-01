@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Tn3CBPsMucE=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ANDRES M ESCOBAR\\source\\repos\\PruebaContactar\\DTO\\DTO.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ANDRES M ESCOBAR\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.33\\microsoft.windowsdesktop.app.ref.6.0.33.nupkg.sha512",
+    "C:\\Users\\ANDRES M ESCOBAR\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.33\\microsoft.netcore.app.ref.6.0.33.nupkg.sha512",
+    "C:\\Users\\ANDRES M ESCOBAR\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.33\\microsoft.aspnetcore.app.ref.6.0.33.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,377 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ANDRES M ESCOBAR\\source\\repos\\PruebaContactar\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{731318C4-7394-4411-B09D-2739449E2790}|WS.PruebaContactar\\WS.PruebaContactar.csproj|c:\\users\\andres m escobar\\source\\repos\\pruebacontactar\\ws.pruebacontactar\\modules\\swagger\\swaggerextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{731318C4-7394-4411-B09D-2739449E2790}|WS.PruebaContactar\\WS.PruebaContactar.csproj|solutionrelative:ws.pruebacontactar\\modules\\swagger\\swaggerextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{731318C4-7394-4411-B09D-2739449E2790}|WS.PruebaContactar\\WS.PruebaContactar.csproj|c:\\users\\andres m escobar\\source\\repos\\pruebacontactar\\ws.pruebacontactar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{731318C4-7394-4411-B09D-2739449E2790}|WS.PruebaContactar\\WS.PruebaContactar.csproj|solutionrelative:ws.pruebacontactar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{731318C4-7394-4411-B09D-2739449E2790}|WS.PruebaContactar\\WS.PruebaContactar.csproj|c:\\users\\andres m escobar\\source\\repos\\pruebacontactar\\ws.pruebacontactar\\modules\\swagger\\configureswaggeroptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{731318C4-7394-4411-B09D-2739449E2790}|WS.PruebaContactar\\WS.PruebaContactar.csproj|solutionrelative:ws.pruebacontactar\\modules\\swagger\\configureswaggeroptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{731318C4-7394-4411-B09D-2739449E2790}|WS.PruebaContactar\\WS.PruebaContactar.csproj|c:\\users\\andres m escobar\\source\\repos\\pruebacontactar\\ws.pruebacontactar\\controllers\\estudiantecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{731318C4-7394-4411-B09D-2739449E2790}|WS.PruebaContactar\\WS.PruebaContactar.csproj|solutionrelative:ws.pruebacontactar\\controllers\\estudiantecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{731318C4-7394-4411-B09D-2739449E2790}|WS.PruebaContactar\\WS.PruebaContactar.csproj|c:\\users\\andres m escobar\\source\\repos\\pruebacontactar\\ws.pruebacontactar\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{731318C4-7394-4411-B09D-2739449E2790}|WS.PruebaContactar\\WS.PruebaContactar.csproj|solutionrelative:ws.pruebacontactar\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{731318C4-7394-4411-B09D-2739449E2790}|WS.PruebaContactar\\WS.PruebaContactar.csproj|c:\\users\\andres m escobar\\source\\repos\\pruebacontactar\\ws.pruebacontactar\\controllers\\tokencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{731318C4-7394-4411-B09D-2739449E2790}|WS.PruebaContactar\\WS.PruebaContactar.csproj|solutionrelative:ws.pruebacontactar\\controllers\\tokencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{731318C4-7394-4411-B09D-2739449E2790}|WS.PruebaContactar\\WS.PruebaContactar.csproj|c:\\users\\andres m escobar\\source\\repos\\pruebacontactar\\ws.pruebacontactar\\controllers\\reportecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{731318C4-7394-4411-B09D-2739449E2790}|WS.PruebaContactar\\WS.PruebaContactar.csproj|solutionrelative:ws.pruebacontactar\\controllers\\reportecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8684CBC-E6E6-4A13-8431-4B773A745106}|DTO\\DTO.csproj|c:\\users\\andres m escobar\\source\\repos\\pruebacontactar\\dto\\response\\tokenresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8684CBC-E6E6-4A13-8431-4B773A745106}|DTO\\DTO.csproj|solutionrelative:dto\\response\\tokenresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00BA0CF9-9806-4649-98D4-6BE02E0FCA60}|Business\\Business.csproj|c:\\users\\andres m escobar\\source\\repos\\pruebacontactar\\business\\bll\\tokenbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00BA0CF9-9806-4649-98D4-6BE02E0FCA60}|Business\\Business.csproj|solutionrelative:business\\bll\\tokenbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00BA0CF9-9806-4649-98D4-6BE02E0FCA60}|Business\\Business.csproj|c:\\users\\andres m escobar\\source\\repos\\pruebacontactar\\business\\interfaces\\itoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00BA0CF9-9806-4649-98D4-6BE02E0FCA60}|Business\\Business.csproj|solutionrelative:business\\interfaces\\itoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8684CBC-E6E6-4A13-8431-4B773A745106}|DTO\\DTO.csproj|c:\\users\\andres m escobar\\source\\repos\\pruebacontactar\\dto\\request\\token\\tokenrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8684CBC-E6E6-4A13-8431-4B773A745106}|DTO\\DTO.csproj|solutionrelative:dto\\request\\token\\tokenrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{731318C4-7394-4411-B09D-2739449E2790}|WS.PruebaContactar\\WS.PruebaContactar.csproj|c:\\users\\andres m escobar\\source\\repos\\pruebacontactar\\ws.pruebacontactar\\modules\\authentication\\authenticationextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{731318C4-7394-4411-B09D-2739449E2790}|WS.PruebaContactar\\WS.PruebaContactar.csproj|solutionrelative:ws.pruebacontactar\\modules\\authentication\\authenticationextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5BDB65B-D5AC-41F4-9CDF-7480AFB4065B}|Common\\Common.csproj|c:\\users\\andres m escobar\\source\\repos\\pruebacontactar\\common\\helpers\\encrypt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5BDB65B-D5AC-41F4-9CDF-7480AFB4065B}|Common\\Common.csproj|solutionrelative:common\\helpers\\encrypt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00BA0CF9-9806-4649-98D4-6BE02E0FCA60}|Business\\Business.csproj|c:\\users\\andres m escobar\\source\\repos\\pruebacontactar\\business\\bll\\reportebll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00BA0CF9-9806-4649-98D4-6BE02E0FCA60}|Business\\Business.csproj|solutionrelative:business\\bll\\reportebll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00BA0CF9-9806-4649-98D4-6BE02E0FCA60}|Business\\Business.csproj|c:\\users\\andres m escobar\\source\\repos\\pruebacontactar\\business\\bll\\notabll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00BA0CF9-9806-4649-98D4-6BE02E0FCA60}|Business\\Business.csproj|solutionrelative:business\\bll\\notabll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8684CBC-E6E6-4A13-8431-4B773A745106}|DTO\\DTO.csproj|c:\\users\\andres m escobar\\source\\repos\\pruebacontactar\\dto\\request\\nota\\editarnotarequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8684CBC-E6E6-4A13-8431-4B773A745106}|DTO\\DTO.csproj|solutionrelative:dto\\request\\nota\\editarnotarequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8684CBC-E6E6-4A13-8431-4B773A745106}|DTO\\DTO.csproj|c:\\users\\andres m escobar\\source\\repos\\pruebacontactar\\dto\\request\\nota\\crearnotarequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8684CBC-E6E6-4A13-8431-4B773A745106}|DTO\\DTO.csproj|solutionrelative:dto\\request\\nota\\crearnotarequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{667672E0-C037-4152-9C65-D1CEDBDEE502}|DataAccess\\DataAccess.csproj|c:\\users\\andres m escobar\\source\\repos\\pruebacontactar\\dataaccess\\models\\nota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{667672E0-C037-4152-9C65-D1CEDBDEE502}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\models\\nota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{667672E0-C037-4152-9C65-D1CEDBDEE502}|DataAccess\\DataAccess.csproj|c:\\users\\andres m escobar\\source\\repos\\pruebacontactar\\dataaccess\\models\\materia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{667672E0-C037-4152-9C65-D1CEDBDEE502}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\models\\materia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{667672E0-C037-4152-9C65-D1CEDBDEE502}|DataAccess\\DataAccess.csproj|c:\\users\\andres m escobar\\source\\repos\\pruebacontactar\\dataaccess\\models\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{667672E0-C037-4152-9C65-D1CEDBDEE502}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\models\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00BA0CF9-9806-4649-98D4-6BE02E0FCA60}|Business\\Business.csproj|c:\\users\\andres m escobar\\source\\repos\\pruebacontactar\\business\\bll\\estudiantebll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00BA0CF9-9806-4649-98D4-6BE02E0FCA60}|Business\\Business.csproj|solutionrelative:business\\bll\\estudiantebll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ConfigureSwaggerOptions.cs",
+              "DocumentMoniker": "C:\\Users\\ANDRES M ESCOBAR\\source\\repos\\PruebaContactar\\WS.PruebaContactar\\Modules\\swagger\\ConfigureSwaggerOptions.cs",
+              "RelativeDocumentMoniker": "WS.PruebaContactar\\Modules\\swagger\\ConfigureSwaggerOptions.cs",
+              "ToolTip": "C:\\Users\\ANDRES M ESCOBAR\\source\\repos\\PruebaContactar\\WS.PruebaContactar\\Modules\\swagger\\ConfigureSwaggerOptions.cs",
+              "RelativeToolTip": "WS.PruebaContactar\\Modules\\swagger\\ConfigureSwaggerOptions.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T02:50:34.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SwaggerExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\ANDRES M ESCOBAR\\source\\repos\\PruebaContactar\\WS.PruebaContactar\\Modules\\swagger\\SwaggerExtensions.cs",
+              "RelativeDocumentMoniker": "WS.PruebaContactar\\Modules\\swagger\\SwaggerExtensions.cs",
+              "ToolTip": "C:\\Users\\ANDRES M ESCOBAR\\source\\repos\\PruebaContactar\\WS.PruebaContactar\\Modules\\swagger\\SwaggerExtensions.cs",
+              "RelativeToolTip": "WS.PruebaContactar\\Modules\\swagger\\SwaggerExtensions.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwBEAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T02:50:29.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EstudianteController.cs",
+              "DocumentMoniker": "C:\\Users\\ANDRES M ESCOBAR\\source\\repos\\PruebaContactar\\WS.PruebaContactar\\Controllers\\EstudianteController.cs",
+              "RelativeDocumentMoniker": "WS.PruebaContactar\\Controllers\\EstudianteController.cs",
+              "ToolTip": "C:\\Users\\ANDRES M ESCOBAR\\source\\repos\\PruebaContactar\\WS.PruebaContactar\\Controllers\\EstudianteController.cs",
+              "RelativeToolTip": "WS.PruebaContactar\\Controllers\\EstudianteController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T02:48:12.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TokenResponse.cs",
+              "DocumentMoniker": "C:\\Users\\ANDRES M ESCOBAR\\source\\repos\\PruebaContactar\\DTO\\Response\\TokenResponse.cs",
+              "RelativeDocumentMoniker": "DTO\\Response\\TokenResponse.cs",
+              "ToolTip": "C:\\Users\\ANDRES M ESCOBAR\\source\\repos\\PruebaContactar\\DTO\\Response\\TokenResponse.cs",
+              "RelativeToolTip": "DTO\\Response\\TokenResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T02:37:48.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TokenRequest.cs",
+              "DocumentMoniker": "C:\\Users\\ANDRES M ESCOBAR\\source\\repos\\PruebaContactar\\DTO\\Request\\Token\\TokenRequest.cs",
+              "RelativeDocumentMoniker": "DTO\\Request\\Token\\TokenRequest.cs",
+              "ToolTip": "C:\\Users\\ANDRES M ESCOBAR\\source\\repos\\PruebaContactar\\DTO\\Request\\Token\\TokenRequest.cs",
+              "RelativeToolTip": "DTO\\Request\\Token\\TokenRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T02:37:35.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IToken.cs",
+              "DocumentMoniker": "C:\\Users\\ANDRES M ESCOBAR\\source\\repos\\PruebaContactar\\Business\\Interfaces\\IToken.cs",
+              "RelativeDocumentMoniker": "Business\\Interfaces\\IToken.cs",
+              "ToolTip": "C:\\Users\\ANDRES M ESCOBAR\\source\\repos\\PruebaContactar\\Business\\Interfaces\\IToken.cs",
+              "RelativeToolTip": "Business\\Interfaces\\IToken.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T02:36:09.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ANDRES M ESCOBAR\\source\\repos\\PruebaContactar\\WS.PruebaContactar\\Program.cs",
+              "RelativeDocumentMoniker": "WS.PruebaContactar\\Program.cs",
+              "ToolTip": "C:\\Users\\ANDRES M ESCOBAR\\source\\repos\\PruebaContactar\\WS.PruebaContactar\\Program.cs",
+              "RelativeToolTip": "WS.PruebaContactar\\Program.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAArwCwAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T02:34:10.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ReporteController.cs",
+              "DocumentMoniker": "C:\\Users\\ANDRES M ESCOBAR\\source\\repos\\PruebaContactar\\WS.PruebaContactar\\Controllers\\ReporteController.cs",
+              "RelativeDocumentMoniker": "WS.PruebaContactar\\Controllers\\ReporteController.cs",
+              "ToolTip": "C:\\Users\\ANDRES M ESCOBAR\\source\\repos\\PruebaContactar\\WS.PruebaContactar\\Controllers\\ReporteController.cs",
+              "RelativeToolTip": "WS.PruebaContactar\\Controllers\\ReporteController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T02:42:38.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TokenBLL.cs",
+              "DocumentMoniker": "C:\\Users\\ANDRES M ESCOBAR\\source\\repos\\PruebaContactar\\Business\\BLL\\TokenBLL.cs",
+              "RelativeDocumentMoniker": "Business\\BLL\\TokenBLL.cs",
+              "ToolTip": "C:\\Users\\ANDRES M ESCOBAR\\source\\repos\\PruebaContactar\\Business\\BLL\\TokenBLL.cs",
+              "RelativeToolTip": "Business\\BLL\\TokenBLL.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAADoAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T02:36:02.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TokenController.cs",
+              "DocumentMoniker": "C:\\Users\\ANDRES M ESCOBAR\\source\\repos\\PruebaContactar\\WS.PruebaContactar\\Controllers\\TokenController.cs",
+              "RelativeDocumentMoniker": "WS.PruebaContactar\\Controllers\\TokenController.cs",
+              "ToolTip": "C:\\Users\\ANDRES M ESCOBAR\\source\\repos\\PruebaContactar\\WS.PruebaContactar\\Controllers\\TokenController.cs",
+              "RelativeToolTip": "WS.PruebaContactar\\Controllers\\TokenController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T02:35:46.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ANDRES M ESCOBAR\\source\\repos\\PruebaContactar\\WS.PruebaContactar\\appsettings.json",
+              "RelativeDocumentMoniker": "WS.PruebaContactar\\appsettings.json",
+              "ToolTip": "C:\\Users\\ANDRES M ESCOBAR\\source\\repos\\PruebaContactar\\WS.PruebaContactar\\appsettings.json",
+              "RelativeToolTip": "WS.PruebaContactar\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-01T02:34:41.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Encrypt.cs",
+              "DocumentMoniker": "C:\\Users\\ANDRES M ESCOBAR\\source\\repos\\PruebaContactar\\Common\\Helpers\\Encrypt.cs",
+              "RelativeDocumentMoniker": "Common\\Helpers\\Encrypt.cs",
+              "ToolTip": "C:\\Users\\ANDRES M ESCOBAR\\source\\repos\\PruebaContactar\\Common\\Helpers\\Encrypt.cs",
+              "RelativeToolTip": "Common\\Helpers\\Encrypt.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T02:33:04.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AuthenticationExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\ANDRES M ESCOBAR\\source\\repos\\PruebaContactar\\WS.PruebaContactar\\Modules\\Authentication\\AuthenticationExtensions.cs",
+              "RelativeDocumentMoniker": "WS.PruebaContactar\\Modules\\Authentication\\AuthenticationExtensions.cs",
+              "ToolTip": "C:\\Users\\ANDRES M ESCOBAR\\source\\repos\\PruebaContactar\\WS.PruebaContactar\\Modules\\Authentication\\AuthenticationExtensions.cs",
+              "RelativeToolTip": "WS.PruebaContactar\\Modules\\Authentication\\AuthenticationExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T02:31:07.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ReporteBLL.cs",
+              "DocumentMoniker": "C:\\Users\\ANDRES M ESCOBAR\\source\\repos\\PruebaContactar\\Business\\BLL\\ReporteBLL.cs",
+              "RelativeDocumentMoniker": "Business\\BLL\\ReporteBLL.cs",
+              "ToolTip": "C:\\Users\\ANDRES M ESCOBAR\\source\\repos\\PruebaContactar\\Business\\BLL\\ReporteBLL.cs",
+              "RelativeToolTip": "Business\\BLL\\ReporteBLL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T01:39:49.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "EditarNotaRequest.cs",
+              "DocumentMoniker": "C:\\Users\\ANDRES M ESCOBAR\\source\\repos\\PruebaContactar\\DTO\\Request\\Nota\\EditarNotaRequest.cs",
+              "RelativeDocumentMoniker": "DTO\\Request\\Nota\\EditarNotaRequest.cs",
+              "ToolTip": "C:\\Users\\ANDRES M ESCOBAR\\source\\repos\\PruebaContactar\\DTO\\Request\\Nota\\EditarNotaRequest.cs",
+              "RelativeToolTip": "DTO\\Request\\Nota\\EditarNotaRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T01:35:49.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CrearNotaRequest.cs",
+              "DocumentMoniker": "C:\\Users\\ANDRES M ESCOBAR\\source\\repos\\PruebaContactar\\DTO\\Request\\Nota\\CrearNotaRequest.cs",
+              "RelativeDocumentMoniker": "DTO\\Request\\Nota\\CrearNotaRequest.cs",
+              "ToolTip": "C:\\Users\\ANDRES M ESCOBAR\\source\\repos\\PruebaContactar\\DTO\\Request\\Nota\\CrearNotaRequest.cs",
+              "RelativeToolTip": "DTO\\Request\\Nota\\CrearNotaRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T01:35:41.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "NotaBLL.cs",
+              "DocumentMoniker": "C:\\Users\\ANDRES M ESCOBAR\\source\\repos\\PruebaContactar\\Business\\BLL\\NotaBLL.cs",
+              "RelativeDocumentMoniker": "Business\\BLL\\NotaBLL.cs",
+              "ToolTip": "C:\\Users\\ANDRES M ESCOBAR\\source\\repos\\PruebaContactar\\Business\\BLL\\NotaBLL.cs",
+              "RelativeToolTip": "Business\\BLL\\NotaBLL.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAAABwAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T01:19:25.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Nota.cs",
+              "DocumentMoniker": "C:\\Users\\ANDRES M ESCOBAR\\source\\repos\\PruebaContactar\\DataAccess\\Models\\Nota.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Models\\Nota.cs",
+              "ToolTip": "C:\\Users\\ANDRES M ESCOBAR\\source\\repos\\PruebaContactar\\DataAccess\\Models\\Nota.cs",
+              "RelativeToolTip": "DataAccess\\Models\\Nota.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T01:19:21.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Materia.cs",
+              "DocumentMoniker": "C:\\Users\\ANDRES M ESCOBAR\\source\\repos\\PruebaContactar\\DataAccess\\Models\\Materia.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Models\\Materia.cs",
+              "ToolTip": "C:\\Users\\ANDRES M ESCOBAR\\source\\repos\\PruebaContactar\\DataAccess\\Models\\Materia.cs",
+              "RelativeToolTip": "DataAccess\\Models\\Materia.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T01:19:18.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Estudiante.cs",
+              "DocumentMoniker": "C:\\Users\\ANDRES M ESCOBAR\\source\\repos\\PruebaContactar\\DataAccess\\Models\\Estudiante.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Models\\Estudiante.cs",
+              "ToolTip": "C:\\Users\\ANDRES M ESCOBAR\\source\\repos\\PruebaContactar\\DataAccess\\Models\\Estudiante.cs",
+              "RelativeToolTip": "DataAccess\\Models\\Estudiante.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T01:19:15.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "EstudianteBLL.cs",
+              "DocumentMoniker": "C:\\Users\\ANDRES M ESCOBAR\\source\\repos\\PruebaContactar\\Business\\BLL\\EstudianteBLL.cs",
+              "RelativeDocumentMoniker": "Business\\BLL\\EstudianteBLL.cs",
+              "ToolTip": "C:\\Users\\ANDRES M ESCOBAR\\source\\repos\\PruebaContactar\\Business\\BLL\\EstudianteBLL.cs",
+              "RelativeToolTip": "Business\\BLL\\EstudianteBLL.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T01:19:07.208Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
